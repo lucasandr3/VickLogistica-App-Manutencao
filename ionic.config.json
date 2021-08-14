@@ -1,0 +1,7 @@
+{
+  "name": "vick_interno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
